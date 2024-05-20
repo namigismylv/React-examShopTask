@@ -1,0 +1,11 @@
+.table{
+    .basketTable__th{
+        padding: 30px;
+        text-align: center;
+        border-width: 1px Im !important;
+        vertical-align: middle;
+        color: #212529;
+        font-size: 18px;
+        
+    }
+}

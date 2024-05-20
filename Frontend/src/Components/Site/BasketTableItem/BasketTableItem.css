@@ -1,0 +1,24 @@
+.basketTableItem__td{
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    color: #212529;
+    border: 1px solid #dee2e6;
+}
+.btn-sm{
+    font-size: 14px ;
+    padding: 10px 20px ;
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+    position: relative;
+    top: 0;
+}
+.btn-sm:hover{
+    box-shadow: 0 5px 20px -7px rgba(0, 0, 0, 0.9) !important;
+    top: -2px;
+    background-color: #7971ea;
+    border-color: #7971ea;
+    top: -2px;
+    color: #fff;
+}

@@ -1,0 +1,12 @@
+.table{
+    width: 80%;
+    margin: 0 auto;
+    th{
+
+        vertical-align: middle;
+    }
+    td{
+    vertical-align: middle;
+    
+    }
+}

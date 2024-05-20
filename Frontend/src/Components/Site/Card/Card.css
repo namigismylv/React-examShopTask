@@ -1,0 +1,39 @@
+.col-4{
+    width: 27.95%;
+}
+
+.card__top img{
+    object-fit: contain;
+    width: 100%;
+}
+
+.card__body{
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h3{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        a{
+            color: #7971ea;
+		transition: .3s all ease;
+        }
+        a:hover{
+            color: #3a2ee0;
+        }
+    }
+    p{
+        line-height: 1.7;
+        color: #8c92a0;
+        font-weight: 300;
+        font-size: 16px;
+    }
+    .card__price{
+        color: #7971ea;
+        font-weight: 700;
+        margin-bottom: 16px;
+    }
+}
